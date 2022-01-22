@@ -1,0 +1,4 @@
+local/
+*.sw*
+vim.core
+perl.core
