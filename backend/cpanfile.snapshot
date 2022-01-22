@@ -117,6 +117,23 @@ DISTRIBUTIONS
       ExtUtils::MakeMaker 6.48
       Test::Simple 0.90
       perl 5.008001
+  DBIx-Connector-0.57
+    pathname: A/AR/ARISTOTLE/DBIx-Connector-0.57.tar.gz
+    provides:
+      DBIx::Connector 0.57
+      DBIx::Connector::Driver 0.57
+      DBIx::Connector::Driver::Firebird 0.57
+      DBIx::Connector::Driver::MSSQL 0.57
+      DBIx::Connector::Driver::Oracle 0.57
+      DBIx::Connector::Driver::Pg 0.57
+      DBIx::Connector::Driver::SQLite 0.57
+      DBIx::Connector::Driver::mysql 0.57
+      DBIx::Connector::RollbackError 0.57
+      DBIx::Connector::SvpRollbackError 0.57
+      DBIx::Connector::TxnRollbackError 0.57
+    requirements:
+      DBI 1.605
+      perl 5.008001
   Devel-CheckLib-1.14
     pathname: M/MA/MATTN/Devel-CheckLib-1.14.tar.gz
     provides:
